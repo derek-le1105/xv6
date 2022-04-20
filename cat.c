@@ -23,7 +23,7 @@ cat(int fd)
 
 int
 main(int argc, char *argv[])
-{
+{ //test
   int fd, i;
 
   if(argc <= 1){
